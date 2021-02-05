@@ -1,4 +1,4 @@
-Castle Defense Game
+Castle Defense
 
 
 ![Image1](images/castledefense1.png)
